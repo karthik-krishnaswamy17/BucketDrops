@@ -5,7 +5,18 @@
     android:layout_height="match_parent"
     tools:context="com.ks17.bucketdrops.ActivityMain">
 
-  <include layout="@layout/empty_drops">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"></include>
 
-  </include>
+    <ImageView
+        android:id="@+id/bd_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/background" />
+
+    <include layout="@layout/empty_drops"></include>
+
 </RelativeLayout>
