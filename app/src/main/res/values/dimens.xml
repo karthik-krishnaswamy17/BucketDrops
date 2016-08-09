@@ -4,4 +4,5 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="bd_width_logo">192dp</dimen>
     <dimen name="bd_height_logo">192dp</dimen>
+    <dimen name="btn_corner_radius">3dp</dimen>
 </resources>
