@@ -5,4 +5,7 @@
     <dimen name="bd_width_logo">192dp</dimen>
     <dimen name="bd_height_logo">192dp</dimen>
     <dimen name="btn_corner_radius">3dp</dimen>
+    <dimen name="text_marginTop">36dp</dimen>
+    <dimen name="text_marginBottom">36dp</dimen>
+    <dimen name="editText_padding">16dp</dimen>
 </resources>

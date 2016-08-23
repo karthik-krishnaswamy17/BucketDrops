@@ -17,6 +17,8 @@
         android:contentDescription="@string/app_name"
         android:src="@drawable/background" />
 
+
     <include layout="@layout/empty_drops"></include>
+
 
 </RelativeLayout>
