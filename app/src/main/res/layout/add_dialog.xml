@@ -28,7 +28,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/text_add_drop"
         android:hint="@string/edit_hint"
-        android:padding="@dimen/editText_padding" />
+        android:padding="@dimen/editText_padding"
+        android:singleLine="true" />
 
     <DatePicker
         android:id="@+id/date_picker"
