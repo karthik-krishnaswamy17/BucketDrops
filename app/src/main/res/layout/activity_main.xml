@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/row_background"
     tools:context="com.ks17.bucketdrops.ActivityMain">
 
     <include
@@ -17,6 +18,13 @@
         android:contentDescription="@string/app_name"
         android:src="@drawable/background" />
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/dv_drops"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar">
+
+    </android.support.v7.widget.RecyclerView>
 
     <include layout="@layout/empty_drops"></include>
 

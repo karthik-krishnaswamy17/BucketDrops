@@ -8,4 +8,8 @@
     <dimen name="text_marginTop">36dp</dimen>
     <dimen name="text_marginBottom">36dp</dimen>
     <dimen name="editText_padding">16dp</dimen>
+    <dimen name="row_img_width">12dp</dimen>
+    <dimen name="row_img_height">12dp</dimen>
+    <dimen name="row_text_paddingL">22dp</dimen>
+    <dimen name="row_text_paddingR">22dp</dimen>
 </resources>
