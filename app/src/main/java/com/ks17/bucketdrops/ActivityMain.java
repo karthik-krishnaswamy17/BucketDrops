@@ -56,7 +56,7 @@ public class ActivityMain extends AppCompatActivity {
 
     private void showDailog() {
         Dialog dialog = new Dialog();
-        dialog.show(getSupportFragmentManager(), "Add");
+        dialog.show(getSupportFragmentManager(), "Added");
 
     }
 
