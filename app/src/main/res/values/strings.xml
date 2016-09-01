@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">BucketDrops</string>
     <string name="str_add_drop">Add a Drop</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_dailog">Add drop</string>
+    <string name="edit_hint">What is your Goal ?</string>
+    <string name="add_it">Add Goal</string>
 </resources>
